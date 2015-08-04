@@ -1,0 +1,3 @@
+graft src/danielhz
+graft docs/
+include *.cfg *.rst *.in

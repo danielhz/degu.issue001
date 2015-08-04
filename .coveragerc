@@ -1,0 +1,6 @@
+[report]
+include =
+    src/danielhz/*
+omit =
+    */test*
+    */upgrades/*
